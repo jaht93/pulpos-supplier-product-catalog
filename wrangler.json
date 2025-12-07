@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "pulpos-supplier-product-catalog",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a3fb791f-54a8-4849-8ffd-4df6a147a2d9",
+			"database_name": "pulpos-supplier-product-catalog"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
